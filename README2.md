@@ -1,3 +1,3 @@
 # hello-world
 Prova di utilizzo
-Ciao sono Simone e sto povando 'sto strumento!
+Ciao sono Simone e sto impazzendo 'sto strumento!
